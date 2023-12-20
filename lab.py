@@ -3,7 +3,7 @@ import streamlit as st
 st.title("hai")
 st.text("blabla")
 
-nama = st.text_input("Masukan nama")
+nama = st.text_input("Masukan ")
 nim = st.text_input("Masukan nim")
 gender = st.radio("gender", ["Pria",'Wanita'])
 
